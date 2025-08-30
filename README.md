@@ -12,7 +12,7 @@
 
 ## music
 
-- [アルバム jigインターン2025](https://code4fukui.github.io/music-player/?m3u8=https://code4fukui.github.io/jigintern2025/music/jigintern2025.m3u8) CC BY [jigintern](https://intern.jig.jp/) powered by [SUNO](https://suno.com/)
+- [アルバム jigインターン2025](https://code4fukui.github.io/music-player/?m3u8=https://jigintern.github.io/jigintern2025/music/jigintern2025.m3u8) CC BY [jigintern](https://intern.jig.jp/) powered by [SUNO](https://suno.com/)
 
 ## photo (VR180)
 
@@ -25,3 +25,4 @@
 
 - [music-player](https://github.com/code4fukui/music-player/)
 - [M3U8](https://github.com/code4fukui/M3U8)
+- [fisheyes-viewer](https://github.com/code4fukui/fisheyes-viewer)
