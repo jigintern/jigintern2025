@@ -6,9 +6,9 @@
 
 ## products
 
-- [ASCII Art ピン](http://github.com/jigintern/2023-summer-a)
-- [ちょべりぐ新聞掲示板](http://github.com/jigintern/2023-summer-b)
-- [おもかげ地図](http://github.com/jigintern/2023-summer-c)
+- [ASCII Art ピン](http://github.com/jigintern/2025-summer-a)
+- [ちょべりぐ新聞掲示板](http://github.com/jigintern/2025-summer-b)
+- [おもかげ地図](http://github.com/jigintern/2025-summer-c)
 
 ## music
 
